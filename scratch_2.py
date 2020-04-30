@@ -27,6 +27,8 @@ def check_exists_by_class_name():
     except NoSuchElementException:
         return False
     return True
+    
+    New test line of code -Useless!!!
     """
 
 
